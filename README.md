@@ -22,5 +22,16 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 ![screenshots/img_11.png](screenshots/img_11.png)
 ![screenshots/img_12.png](screenshots/img_12.png)
 
+## Chapter 3. Optimizing Fonts and Images
+![screenshots/img_13.png](screenshots/img_13.png)
+![screenshots/img_14.png](screenshots/img_14.png)
+![screenshots/img_15.png](screenshots/img_15.png)
+![screenshots/img_16.png](screenshots/img_16.png)
+![screenshots/img_17.png](screenshots/img_17.png)
+![screenshots/img_18.png](screenshots/img_18.png)
+![screenshots/img_19.png](screenshots/img_19.png)
+![screenshots/img_20.png](screenshots/img_20.png)
+![screenshots/img_21.png](screenshots/img_21.png)
+![screenshots/img_22.png](screenshots/img_22.png)
 
 
