@@ -41,3 +41,9 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 ![screenshots/img_26.png](screenshots/chaprer 1-4/img_26.png)
 ![screenshots/img_27.png](screenshots/chaprer 1-4/img_27.png)
 
+## Chapter 5. Navigating Between Pages
+![screenshots/img.png](screenshots/chapter 5/img.png)
+![screenshots/img_1.png](screenshots/chapter 5/img_1.png)
+![screenshots/img_2.png](screenshots/chapter 5/img_2.png)
+![screenshots/img_3.png](screenshots/chapter 5/img_3.png)
+![screenshots/img_4.png](screenshots/chapter 5/img_4.png)
