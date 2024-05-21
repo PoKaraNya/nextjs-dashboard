@@ -75,3 +75,9 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 ![screenshots/img_5.png](screenshots/chapter 7/img_5.png)
 ![screenshots/img_6.png](screenshots/chapter 7/img_6.png)
 ![screenshots/img_7.png](screenshots/chapter 7/img_7.png)
+
+## Chapter 8. Static and Dynamic Rendering
+![screenshots/img.png](screenshots/chapter 8/img.png)
+![screenshots/img_1.png](screenshots/chapter 8/img_1.png)
+![screenshots/img_2.png](screenshots/chapter 8/img_2.png)
+![screenshots/img_3.png](screenshots/chapter 8/img_3.png)
