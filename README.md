@@ -62,3 +62,6 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 ![screenshots/img_10.png](screenshots/chapter 6/img_10.png)
 ![screenshots/img_11.png](screenshots/chapter 6/img_11.png)
 ![screenshots/img_12.png](screenshots/chapter 6/img_12.png)
+![screenshots/img_13.png](screenshots/chapter 6/img_13.png)
+![screenshots/img_14.png](screenshots/chapter 6/img_14.png)
+![screenshots/img_15.png](screenshots/chapter 6/img_15.png)
