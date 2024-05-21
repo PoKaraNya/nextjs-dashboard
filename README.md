@@ -81,3 +81,15 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 ![screenshots/img_1.png](screenshots/chapter 8/img_1.png)
 ![screenshots/img_2.png](screenshots/chapter 8/img_2.png)
 ![screenshots/img_3.png](screenshots/chapter 8/img_3.png)
+
+## Chapter 9. Streaming
+![screenshots/img.png](screenshots/chapter 9/img.png)
+![screenshots/img_1.png](screenshots/chapter 9/img_1.png)
+![screenshots/img_2.png](screenshots/chapter 9/img_2.png)
+![screenshots/img_3.png](screenshots/chapter 9/img_3.png)
+![screenshots/img_4.png](screenshots/chapter 9/img_4.png)
+![screenshots/img_5.png](screenshots/chapter 9/img_5.png)
+![screenshots/img_6.png](screenshots/chapter 9/img_6.png)
+![screenshots/img_7.png](screenshots/chapter 9/img_7.png)
+![screenshots/img_8.png](screenshots/chapter 9/img_8.png)
+![screenshots/img_9.png](screenshots/chapter 9/img_9.png)
