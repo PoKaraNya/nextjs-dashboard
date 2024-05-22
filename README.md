@@ -93,3 +93,6 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 ![screenshots/img_7.png](screenshots/chapter 9/img_7.png)
 ![screenshots/img_8.png](screenshots/chapter 9/img_8.png)
 ![screenshots/img_9.png](screenshots/chapter 9/img_9.png)
+
+## Chapter 10. Partial Prerendering (Optional)
+![screenshots/img.png](screenshots/chapter 10/img.png)
