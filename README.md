@@ -143,4 +143,21 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 ![screenshots/img_8.png](screenshots/chapter 13/img_8.png)
 ![screenshots/img_9.png](screenshots/chapter 13/img_9.png)
 ![screenshots/img_10.png](screenshots/chapter 13/img_10.png)
- 
+
+## Chapter 14. Improving Accessibility
+![screenshots/img.png](screenshots/chapter 14/img.png)
+![screenshots/img_1.png](screenshots/chapter 14/img_1.png)
+![screenshots/img_2.png](screenshots/chapter 14/img_2.png)
+![screenshots/img_3.png](screenshots/chapter 14/img_3.png)
+![screenshots/img_4.png](screenshots/chapter 14/img_4.png)
+![screenshots/img_5.png](screenshots/chapter 14/img_5.png)
+![screenshots/img_6.png](screenshots/chapter 14/img_6.png)
+![screenshots/img_7.png](screenshots/chapter 14/img_7.png)
+![screenshots/img_8.png](screenshots/chapter 14/img_8.png)
+![screenshots/img_9.png](screenshots/chapter 14/img_9.png)
+![screenshots/img_10.png](screenshots/chapter 14/img_10.png)
+![screenshots/img_11.png](screenshots/chapter 14/img_11.png)
+![screenshots/img_12.png](screenshots/chapter 14/img_12.png)
+![screenshots/img_13.png](screenshots/chapter 14/img_13.png)
+![screenshots/img_14.png](screenshots/chapter 14/img_14.png)
+
