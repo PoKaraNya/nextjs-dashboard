@@ -143,3 +143,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 ![screenshots/img_8.png](screenshots/chapter 13/img_8.png)
 ![screenshots/img_9.png](screenshots/chapter 13/img_9.png)
 ![screenshots/img_10.png](screenshots/chapter 13/img_10.png)
+ 
