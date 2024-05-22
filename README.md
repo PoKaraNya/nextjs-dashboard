@@ -111,3 +111,25 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 ![screenshots/img_10.png](screenshots/chapter 11/img_10.png)
 ![screenshots/img_11.png](screenshots/chapter 11/img_11.png)
 ![screenshots/img_12.png](screenshots/chapter 11/img_12.png)
+
+## Chapter 12. Mutating Data
+![screenshots/img.png](screenshots/chapter 12/img.png)
+![screenshots/img_1.png](screenshots/chapter 12/img_1.png)
+![screenshots/img_2.png](screenshots/chapter 12/img_2.png)
+![screenshots/img_3.png](screenshots/chapter 12/img_3.png)
+![screenshots/img_4.png](screenshots/chapter 12/img_4.png)
+![screenshots/img_5.png](screenshots/chapter 12/img_5.png)
+![screenshots/img_6.png](screenshots/chapter 12/img_6.png)
+![screenshots/img_7.png](screenshots/chapter 12/img_7.png)
+![screenshots/img_8.png](screenshots/chapter 12/img_8.png)
+![screenshots/img_9.png](screenshots/chapter 12/img_9.png)
+![screenshots/img_10.png](screenshots/chapter 12/img_10.png)
+![screenshots/img_11.png](screenshots/chapter 12/img_11.png)
+![screenshots/img_12.png](screenshots/chapter 12/img_12.png)
+![screenshots/img_13.png](screenshots/chapter 12/img_13.png)
+![screenshots/img_14.png](screenshots/chapter 12/img_14.png)
+![screenshots/img_15.png](screenshots/chapter 12/img_15.png)
+![screenshots/img_16.png](screenshots/chapter 12/img_16.png)
+
+## Chapter 13. Handling Errors
+
