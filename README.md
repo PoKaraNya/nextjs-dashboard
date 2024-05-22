@@ -96,3 +96,18 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 ## Chapter 10. Partial Prerendering (Optional)
 ![screenshots/img.png](screenshots/chapter 10/img.png)
+
+## Chapter 11. Adding Search and Pagination
+![screenshots/img.png](screenshots/chapter 11/img.png)
+![screenshots/img_1.png](screenshots/chapter 11/img_1.png)
+![screenshots/img_2.png](screenshots/chapter 11/img_2.png)
+![screenshots/img_3.png](screenshots/chapter 11/img_3.png)
+![screenshots/img_4.png](screenshots/chapter 11/img_4.png)
+![screenshots/img_5.png](screenshots/chapter 11/img_5.png)
+![screenshots/img_6.png](screenshots/chapter 11/img_6.png)
+![screenshots/img_7.png](screenshots/chapter 11/img_7.png)
+![screenshots/img_8.png](screenshots/chapter 11/img_8.png)
+![screenshots/img_9.png](screenshots/chapter 11/img_9.png)
+![screenshots/img_10.png](screenshots/chapter 11/img_10.png)
+![screenshots/img_11.png](screenshots/chapter 11/img_11.png)
+![screenshots/img_12.png](screenshots/chapter 11/img_12.png)
