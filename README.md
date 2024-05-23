@@ -190,3 +190,6 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 ![screenshots/img_10.png](screenshots/chapter 16/img_10.png)
 ![screenshots/img_11.png](screenshots/chapter 16/img_11.png)
 ![screenshots/img_12.png](screenshots/chapter 16/img_12.png)
+
+## Chapter 17. Next Steps
+![screenshots/img.png](screenshots/chapter 17/img.png)
